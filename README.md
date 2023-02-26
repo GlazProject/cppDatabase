@@ -1,5 +1,6 @@
 # DatabaseAsSQL
-  
+
+Реляционная база данных, написанная в качестве проекта по курсу ЯТП от МатМеха
     
 ## Available commands for UI interface
 *	OPEN db.cdb;
